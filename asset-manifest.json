@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FlagGo/static/css/main.2a62f058.css",
+    "main.js": "/FlagGo/static/js/main.06b6b49e.js",
+    "static/media/CoverPage1.jpg": "/FlagGo/static/media/CoverPage1.db81819b301926cdf8af.jpg",
+    "static/media/CoverPage4.jpg": "/FlagGo/static/media/CoverPage4.7aaab5c44a0d1f5e8d4a.jpg",
+    "static/media/DetailBTTH.png": "/FlagGo/static/media/DetailBTTH.ce6ca1bab5839e3cb252.png",
+    "static/media/DiTich2.jpg": "/FlagGo/static/media/DiTich2.45a697cca86268af8914.jpg",
+    "static/media/VanHoa.jpg": "/FlagGo/static/media/VanHoa.d9645174445daafdecca.jpg",
+    "static/media/CoverPage5.jpg": "/FlagGo/static/media/CoverPage5.7385f1294de4b0d8a043.jpg",
+    "static/media/ChuaOng.png": "/FlagGo/static/media/ChuaOng.21c434bdecc48b883632.png",
+    "static/media/CoverPage3.jpg": "/FlagGo/static/media/CoverPage3.6e5f294da30e0e4497f4.jpg",
+    "static/media/VuonBL.png": "/FlagGo/static/media/VuonBL.428af7b52dc82296185c.png",
+    "static/media/DiTich1.jpg": "/FlagGo/static/media/DiTich1.7c4b8b75ca9e6c1daec5.jpg",
+    "static/media/CoverPage2.jpg": "/FlagGo/static/media/CoverPage2.ecb25eb0975f4edcc884.jpg",
+    "static/media/BanhTrangTH.png": "/FlagGo/static/media/BanhTrangTH.47b7739cfc6a8b310997.png",
+    "static/media/BenNK.png": "/FlagGo/static/media/BenNK.025ca8f920eda3eb1910.png",
+    "static/media/MapCanTho.png": "/FlagGo/static/media/MapCanTho.42973416578f983761af.png",
+    "static/media/KhuDuLich2.jpg": "/FlagGo/static/media/KhuDuLich2.a2d78a21076edcc7a58d.jpg",
+    "static/media/KhuDuLich1.jpg": "/FlagGo/static/media/KhuDuLich1.f49bee743ed5b94b18cb.jpg",
+    "static/media/CoverPage.jpg": "/FlagGo/static/media/CoverPage.a31fb47e4a2cfb7b7743.jpg",
+    "index.html": "/FlagGo/index.html",
+    "main.2a62f058.css.map": "/FlagGo/static/css/main.2a62f058.css.map",
+    "main.06b6b49e.js.map": "/FlagGo/static/js/main.06b6b49e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a62f058.css",
+    "static/js/main.06b6b49e.js"
+  ]
+}
