@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FlagGo/static/css/main.a1165c14.css",
-    "main.js": "/FlagGo/static/js/main.97ea9d64.js",
+    "main.css": "/FlagGo/static/css/main.6d73171e.css",
+    "main.js": "/FlagGo/static/js/main.09afb0b6.js",
     "static/media/CoverPage1.jpg": "/FlagGo/static/media/CoverPage1.db81819b301926cdf8af.jpg",
     "static/media/CoverPage4.jpg": "/FlagGo/static/media/CoverPage4.7aaab5c44a0d1f5e8d4a.jpg",
     "static/media/DetailBTTH.png": "/FlagGo/static/media/DetailBTTH.ce6ca1bab5839e3cb252.png",
@@ -12,21 +12,26 @@
     "static/media/CoverPage3.jpg": "/FlagGo/static/media/CoverPage3.6e5f294da30e0e4497f4.jpg",
     "static/media/LHChuaOng.png": "/FlagGo/static/media/LHChuaOng.68f88e89ef383c4935b9.png",
     "static/media/LHDinhBT.png": "/FlagGo/static/media/LHDinhBT.54f0524b4bb869e0c871.png",
+    "static/media/LauMamCT.png": "/FlagGo/static/media/LauMamCT.5a3087f243a067ef4511.png",
     "static/media/VuonBL.png": "/FlagGo/static/media/VuonBL.428af7b52dc82296185c.png",
     "static/media/DiTich1.jpg": "/FlagGo/static/media/DiTich1.7c4b8b75ca9e6c1daec5.jpg",
     "static/media/CoverPage2.jpg": "/FlagGo/static/media/CoverPage2.ecb25eb0975f4edcc884.jpg",
     "static/media/BanhTrangTH.png": "/FlagGo/static/media/BanhTrangTH.47b7739cfc6a8b310997.png",
     "static/media/BenNK.png": "/FlagGo/static/media/BenNK.025ca8f920eda3eb1910.png",
+    "static/media/BunGoiDa.png": "/FlagGo/static/media/BunGoiDa.6d1eb25e745eee675d39.png",
+    "static/media/BanhTetLaLotCT.png": "/FlagGo/static/media/BanhTetLaLotCT.6d98d1306e34d8a3dca9.png",
+    "static/media/ChaoLongCaiTac.png": "/FlagGo/static/media/ChaoLongCaiTac.4ea07d65d298d1fd0015.png",
     "static/media/MapCanTho.png": "/FlagGo/static/media/MapCanTho.42973416578f983761af.png",
+    "static/media/BunNuocLeo.png": "/FlagGo/static/media/BunNuocLeo.093f850beb63c864148f.png",
     "static/media/KhuDuLich2.jpg": "/FlagGo/static/media/KhuDuLich2.a2d78a21076edcc7a58d.jpg",
     "static/media/KhuDuLich1.jpg": "/FlagGo/static/media/KhuDuLich1.f49bee743ed5b94b18cb.jpg",
     "static/media/CoverPage.jpg": "/FlagGo/static/media/CoverPage.a31fb47e4a2cfb7b7743.jpg",
     "index.html": "/FlagGo/index.html",
-    "main.a1165c14.css.map": "/FlagGo/static/css/main.a1165c14.css.map",
-    "main.97ea9d64.js.map": "/FlagGo/static/js/main.97ea9d64.js.map"
+    "main.6d73171e.css.map": "/FlagGo/static/css/main.6d73171e.css.map",
+    "main.09afb0b6.js.map": "/FlagGo/static/js/main.09afb0b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1165c14.css",
-    "static/js/main.97ea9d64.js"
+    "static/css/main.6d73171e.css",
+    "static/js/main.09afb0b6.js"
   ]
 }
